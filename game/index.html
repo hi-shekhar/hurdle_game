@@ -1,0 +1,24 @@
+<!doctype html>
+<html ng-app="myApp">
+
+<head>
+    <meta charset="UTF-8">
+    <title>Document</title>
+    <link rel="stylesheet" href="assets/css/bootstrap.min.css">
+    <link rel="stylesheet" href="assets/css/style.css">
+</head>
+
+<body class="container">
+    <score-board>
+        <race-track path-coord="{{coordinates}}">
+            <control-button next-level="{{coordinates.level}}"></control-button>
+        </race-track>
+    </score-board>
+    <script src="assets/js/jquery-3.1.1.js"></script>
+    <script src="assets/js/angular.min.js"></script>
+    <script src="directives/scoreBoard.js"></script>
+    <script src="directives/raceTrack.js"></script>
+    <script src="directives/controlButton.js"></script>
+</body>
+
+</html>
