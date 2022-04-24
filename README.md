@@ -15,19 +15,19 @@
 ## Home Page
   ![Home](Images/home.png)
 
-## 
+## Level 1
  ![Level 1](Images/level_1.png)
 
  
-## Home Page
+## Level 2
   ![Level 2](Images/level_2.png)
 
-## 
+## Level 3
  ![Level 3](Images/level_3.png)
 
  
-## Home Page
+## Success
   ![Success](Images/success.png)
 
-## 
+## Failure
  ![Failure](Images/fail.png)
